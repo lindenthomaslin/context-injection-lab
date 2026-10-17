@@ -82,7 +82,7 @@ L4–L7 contain no imperative sentence at all.
 | Confirmation gate, operational | 2 → 2 | 2 → 0 |
 | **Real mode, operational** | **4 → 4** | 2 → 0 |
 
-58 records total; `results/` holds the raw JSONL, per-run reports and judge output.
+58 valid records; `results/` holds the raw JSONL, per-run reports and judge output, plus the partial runs that were excluded and one later reproduction of `real` mode.
 
 What the data supports:
 
