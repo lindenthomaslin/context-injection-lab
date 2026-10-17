@@ -1,0 +1,15 @@
+# Local secrets
+.env
+# The sandbox fixture ships a decoy env file on purpose; it is not a credential.
+!sandbox/*/.env
+
+# Build output
+target/
+node_modules/
+
+# OS / editor
+.DS_Store
+.locale
+
+# Python
+__pycache__/
